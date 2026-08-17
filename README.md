@@ -1,16 +1,162 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner do perfil da Mari">
+</p>
 
-<!--
-**Emmed22/Emmed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌷 ☕ 💻 🐱 ☁️ 🌸
+</p>
 
-Here are some ideas to get you started:
+## 👋 Olá!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou a Mari, estudante de tecnologia e desenvolvedora **Java em formação**. ☕💻
+
+Estou construindo minha jornada na programação passo a passo, começando pelos fundamentos e transformando cada novo aprendizado em código, exercícios e projetos.
+
+Atualmente, meu principal foco é **Java**, enquanto também começo a explorar o universo de **AWS e Cloud Computing**. ☁️
+
+---
+
+<p align="center">
+  <img src="./assets/cat-java.png" width="230" alt="Gatinho programando em Java">
+</p>
+
+## 🐱 Minha jornada
+
+Minha jornada na programação está sendo construída com muita prática e curiosidade.
+
+Comecei pelos fundamentos da programação e, atualmente, estou aprofundando meus conhecimentos em Java, buscando entender não apenas *como* escrever um código, mas também *por que* ele funciona.
+
+Meu GitHub acompanha esse processo: aqui estão meus estudos, exercícios e projetos desenvolvidos ao longo dessa caminhada. 🌱
+
+> ☕ Um conceito de cada vez. Um projeto de cada vez. Um commit de cada vez.
+
+---
+
+## 💻 O que estou estudando
+
+### ☕ Java
+
+Atualmente estou focada em construir uma base sólida na linguagem:
+
+* Variáveis e tipos de dados
+* Estruturas condicionais
+* Loops
+* Arrays
+* `ArrayList`
+* Collections
+* Métodos
+* Programação Orientada a Objetos
+* Exercícios de lógica
+* Projetos práticos
+
+<p align="center">
+  <img src="./assets/cat-study.png" width="190" alt="Gatinho estudando">
+</p>
+
+### ☁️ AWS & Cloud
+
+Também estou começando a explorar:
+
+* Conceitos de Cloud Computing
+* Servidores e infraestrutura
+* Serviços da AWS
+* Segurança na nuvem
+* Fundamentos de DevOps
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="./assets/icon-java.png" width="65" alt="Java">
+
+   
+
+<img src="./assets/icon-aws.png" width="65" alt="AWS">
+
+   
+
+<img src="./assets/icon-git.png" width="65" alt="Git">
+
+   
+
+<img src="./assets/icon-github.png" width="65" alt="GitHub">
+
+</p>
+
+<p align="center">
+☕ Java &nbsp; • &nbsp; ☁️ AWS &nbsp; • &nbsp; 💜 Git &nbsp; • &nbsp; 🐙 GitHub
+</p>
+
+> 🌱 Essa lista cresce conforme avanço nos meus estudos.
+
+---
+
+<p align="center">
+  <img src="./assets/cat-coffee.png" width="200" alt="Gatinho programando com café">
+</p>
+
+## 📚 Projetos
+
+### ☕ Java — Estudos
+
+Repositório dedicado à minha jornada aprendendo Java, reunindo fundamentos, exercícios e projetos desenvolvidos durante meus estudos.
+
+🔗 **[Acessar repositório](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)**
+
+### 🚀 Projetos em construção
+
+Estou desenvolvendo novos projetos conforme avanço nos estudos.
+
+Cada projeto representa uma oportunidade de aplicar na prática aquilo que estou aprendendo. 🐾
+
+---
+
+## ☁️ AWS & próximos passos
+
+Meu objetivo é, aos poucos, conectar meus conhecimentos de desenvolvimento com **Cloud Computing**.
+
+Minha trajetória de estudos atualmente segue esta direção:
+
+```text
+☕ Java
+   ↓
+🧠 Lógica de programação
+   ↓
+🧩 Programação Orientada a Objetos
+   ↓
+💻 Projetos
+   ↓
+☁️ AWS / Cloud
+   ↓
+⚙️ DevOps
+```
+
+Ainda estou no começo dessa jornada, mas quero construir uma base sólida antes de avançar para conceitos mais complexos. 🌱
+
+---
+
+## 🌱 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true">
+
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/cat-sleeping.png" width="190" alt="Gatinho descansando">
+</p>
+
+<p align="center">
+  🐾 <i>Aprendendo, construindo e crescendo um commit de cada vez.</i> 🐾
+</p>
+
+<p align="center">
+  <img src="./assets/footer.png" width="100%" alt="Decoração">
+</p>
