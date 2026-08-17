@@ -69,19 +69,19 @@ Também estou começando a explorar:
 
 <p align="center">
 
-<img src="./assets/icon-java.png" width="65" alt="Java">
+<img src="./assets/icons/icon-java.png" width="65" alt="Java">
 
    
 
-<img src="./assets/icon-aws.png" width="65" alt="AWS">
+<img src="./assets/icons/icon-aws.png" width="65" alt="AWS">
 
    
 
-<img src="./assets/icon-git.png" width="65" alt="Git">
+<img src="./assets/icons/icon-git.png" width="65" alt="Git">
 
    
 
-<img src="./assets/icon-github.png" width="65" alt="GitHub">
+<img src="./assets/icons/icon-github.png" width="65" alt="GitHub">
 
 </p>
 
@@ -103,7 +103,7 @@ Também estou começando a explorar:
 
 Repositório dedicado à minha jornada aprendendo Java, reunindo fundamentos, exercícios e projetos desenvolvidos durante meus estudos.
 
-🔗 **[Acessar repositório](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)**
+🔗 **[Acessar repositório](https://github.com/Emmed22/java-estudos.git)**
 
 ### 🚀 Projetos em construção
 
@@ -141,9 +141,9 @@ Ainda estou no começo dessa jornada, mas quero construir uma base sólida antes
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true">
+<img height="190" src="https://github-readme-stats-extended.vercel.app/api?username=Emmed22&show_icons=true&hide_border=true&bg_color=FFF8E7&title_color=8B7E9E&text_color=6B6870&icon_color=8BB8D9">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true">
+<img height="190" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Emmed22&layout=compact&hide_border=true&bg_color=FFF8E7&title_color=8B7E9E&text_color=6B6870&icon_color=8BB8D9">
 
 </p>
 
