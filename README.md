@@ -6,7 +6,7 @@
   🌷 ☕ 💻 🐱 ☁️ 🌸
 </p>
 
-## 👋 Olá!
+# 👋 Olá!
 
 Sou a Mari, estudante de tecnologia e desenvolvedora **Java em formação**. ☕💻
 
@@ -20,7 +20,7 @@ Atualmente, meu principal foco é **Java**, enquanto também começo a explorar 
   <img src="./assets/cat-java.png" width="230" alt="Gatinho programando em Java">
 </p>
 
-## 🐱 Minha jornada
+# 🐱 Minha jornada
 
 Minha jornada na programação está sendo construída com muita prática e curiosidade.
 
@@ -32,7 +32,7 @@ Meu GitHub acompanha esse processo: aqui estão meus estudos, exercícios e proj
 
 ---
 
-## 💻 O que estou estudando
+# 💻 O que estou estudando
 
 ### ☕ Java
 
@@ -65,29 +65,28 @@ Também estou começando a explorar:
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
-<p align="center">
+## ☕ Linguagem
 
-<img src="./assets/icons/icon-java.png" width="65" alt="Java">
-
-   
-
-<img src="./assets/icons/icon-aws.png" width="65" alt="AWS">
-
-   
-
-<img src="./assets/icons/icon-git.png" width="65" alt="Git">
-
-   
-
-<img src="./assets/icons/icon-github.png" width="65" alt="GitHub">
-
+<p>
+  <img src="./assets/icons/icon-java.png" width="65" alt="Java">
 </p>
 
-<p align="center">
-☕ Java &nbsp; • &nbsp; ☁️ AWS &nbsp; • &nbsp; 💜 Git &nbsp; • &nbsp; 🐙 GitHub
+## 🔧 Ferramentas
+
+<p>
+  <img src="./assets/icons/icon-git.png" width="65" alt="Git">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/icon-github.png" width="65" alt="GitHub">
 </p>
+
+## ☁️ Cloud
+
+<p>
+  <img src="./assets/icons/icon-aws.png" width="65" alt="AWS">
+</p>
+
 
 > 🌱 Essa lista cresce conforme avanço nos meus estudos.
 
@@ -97,15 +96,15 @@ Também estou começando a explorar:
   <img src="./assets/cat-coffee.png" width="200" alt="Gatinho programando com café">
 </p>
 
-## 📚 Projetos
+# 📚 Projetos
 
-### ☕ Java — Estudos
+## ☕ Java — Estudos
 
 Repositório dedicado à minha jornada aprendendo Java, reunindo fundamentos, exercícios e projetos desenvolvidos durante meus estudos.
 
 🔗 **[Acessar repositório](https://github.com/Emmed22/java-estudos.git)**
 
-### 🚀 Projetos em construção
+## 🚀 Projetos em construção
 
 Estou desenvolvendo novos projetos conforme avanço nos estudos.
 
@@ -137,7 +136,7 @@ Ainda estou no começo dessa jornada, mas quero construir uma base sólida antes
 
 ---
 
-## 🌱 GitHub Stats
+# 🌱 GitHub Stats
 
 <p align="center">
 
